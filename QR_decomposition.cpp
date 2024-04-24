@@ -1,8 +1,5 @@
 
-/*
-学籍番号: 1211201118
-氏名: 林 優花
-*/
+
 
 //Add if necessary
 #include <iostream>
